@@ -1,0 +1,20 @@
+.calculator {
+    width: 300px;
+    background-color:aqua;
+    border: 15px solid #9f19f3;
+    padding: 10px;
+    margin: 0 auto;
+
+  }
+  .calculator input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 18px;
+  }
+  .calculator button {
+    width: 48%;
+    padding: 10px;
+    font-size: 18px;
+    font-style:italic;
+  }
